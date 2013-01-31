@@ -1,0 +1,1 @@
+{"name":"Static Linux Libraries ","tagline":"","body":"* Here is how you install it using yum\r\n \r\n   ``sudo yum install glibc-static -y``\r\n\r\n***\r\n\r\n* Here is how you compile it\r\n\r\n   ``gcc -static test.c -o test``\r\n\r\n\r\n","note":"Don't delete this file! It's used internally to help with page regeneration.","google":""}
